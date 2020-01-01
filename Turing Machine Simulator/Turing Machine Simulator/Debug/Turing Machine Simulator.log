@@ -1,0 +1,5 @@
+﻿  Turing Machine Simulator.cpp
+d:\turing machine simulator\turing machine simulator\header.h(65): warning C4018: '<': signed/unsigned mismatch
+d:\turing machine simulator\turing machine simulator\turing machine simulator.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\turing machine simulator\turing machine simulator\turing machine simulator.cpp(32): warning C4018: '>=': signed/unsigned mismatch
+  Turing Machine Simulator.vcxproj -> D:\Turing Machine Simulator\Debug\Turing Machine Simulator.exe
